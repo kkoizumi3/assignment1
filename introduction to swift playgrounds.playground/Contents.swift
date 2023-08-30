@@ -22,6 +22,7 @@ var myThirdVariable = myFirstVariable + mySecondVariable
 print(myThirdVariable)
 
 
+
 var yuh: String
 //first new variable for part 9 of assignment 2
 yuh = "Nice"
