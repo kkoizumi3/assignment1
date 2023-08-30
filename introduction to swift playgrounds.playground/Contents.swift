@@ -20,3 +20,22 @@ var mySecondVariable = " and look I added 2 strings together."
 var myThirdVariable = myFirstVariable + mySecondVariable
 
 print(myThirdVariable)
+
+
+var yuh: String
+//first new variable for part 9 of assignment 2
+yuh = "Nice"
+
+var naur: String
+//second new variable
+naur = " meeting"
+
+var iDontNaur: String
+//third new variable
+iDontNaur = " you."
+
+var combini = yuh + naur + iDontNaur
+//string concatenation
+print(combini)
+
+
