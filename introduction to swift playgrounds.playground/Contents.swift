@@ -52,7 +52,12 @@ var intTwo = 7
 var comparison = intOne > intTwo
 
 //Part 7 On Your Own pt. 1
+var assignThreeOne = "needs to be equal"
 
+var assignThreeTwo = "cannot be equal"
+
+var assignThreeThree = (assignThreeOne) == (assignThreeTwo)
+print(assignThreeThree)
 
 //Part 8 On Your Own pt. 2
 
